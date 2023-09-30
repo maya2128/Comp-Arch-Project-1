@@ -1,0 +1,14 @@
+Good resources:
+https://gobyexample.com
+
+*Must create a Decimal to Binary Converter funtion for the binary to be converted and displayed after all of the instructions have been looped through.  
+- will need to show 2's compliment 
+- show appropriate bit sign
+
+*Must correctly create and write to output file.
+
+*Must create a switch with cases for each instr and recognize by opcode 
+- we can make a case for each instr or sperate cases by instr type 
+- we will recognize "break" instr by the binary given in slides as well as opcode 2038.
+- untilize range?
+
